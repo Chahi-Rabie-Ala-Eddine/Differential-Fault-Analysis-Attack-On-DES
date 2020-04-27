@@ -4,7 +4,7 @@
  
 ## About
 
-This is a fault attack analysis on Data encryption standard. 
+This is a [fault attack analysis](https://en.wikipedia.org/wiki/Differential_fault_analysis) on Data encryption standard. 
 
 ## Documentation 
 
@@ -13,9 +13,9 @@ You will find in the previous files a pdf document containing all the step-by-st
 ## USE
 
 To run the program and its animation please enter the following commands on your linux terminal : 
-```
+```bash
 make
-./DifferentialFaultAnalysis ANimation
+./DifferentialFaultAnalysis animation
 ```
 
 ## License & copyright
