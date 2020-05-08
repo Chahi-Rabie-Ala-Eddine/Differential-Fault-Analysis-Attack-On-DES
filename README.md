@@ -1,6 +1,9 @@
 # Differential fault analysis on DES
 
 **Version 1.0.0**
+
+![alt text](http://ala-eddine-chahi.fr/dfa.png)
+
  
 ## About
 
